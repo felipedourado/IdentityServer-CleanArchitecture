@@ -75,7 +75,7 @@ namespace SquadPremium.Application.IntegrationTests
 
             var context = scope.ServiceProvider.GetService<ApplicationDbContext>();
 
-            context.Database.Migrate();
+           // context.Database.Migrate();
         }
 
         public static async Task<TResponse> SendAsync<TResponse>(IRequest<TResponse> request)
