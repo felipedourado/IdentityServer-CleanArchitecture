@@ -1,0 +1,5 @@
+C:\Users\Peiper\projetos\CleanArchitecture\tests\Aplication.UnitTests\obj\Debug\net5.0\SquadPremium.Application.UnitTests.csproj.AssemblyReference.cache
+C:\Users\Peiper\projetos\CleanArchitecture\tests\Aplication.UnitTests\obj\Debug\net5.0\SquadPremium.Application.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peiper\projetos\CleanArchitecture\tests\Aplication.UnitTests\obj\Debug\net5.0\SquadPremium.Application.UnitTests.AssemblyInfoInputs.cache
+C:\Users\Peiper\projetos\CleanArchitecture\tests\Aplication.UnitTests\obj\Debug\net5.0\SquadPremium.Application.UnitTests.AssemblyInfo.cs
+C:\Users\Peiper\projetos\CleanArchitecture\tests\Aplication.UnitTests\obj\Debug\net5.0\SquadPremium.Application.UnitTests.csproj.CoreCompileInputs.cache

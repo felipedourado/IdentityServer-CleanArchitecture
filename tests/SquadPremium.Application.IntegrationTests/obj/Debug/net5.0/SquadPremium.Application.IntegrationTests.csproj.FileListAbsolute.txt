@@ -1,0 +1,5 @@
+C:\Users\Peiper\projetos\CleanArchitecture\tests\SquadPremium.Application.IntegrationTests\obj\Debug\net5.0\SquadPremium.Application.IntegrationTests.csproj.AssemblyReference.cache
+C:\Users\Peiper\projetos\CleanArchitecture\tests\SquadPremium.Application.IntegrationTests\obj\Debug\net5.0\SquadPremium.Application.IntegrationTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peiper\projetos\CleanArchitecture\tests\SquadPremium.Application.IntegrationTests\obj\Debug\net5.0\SquadPremium.Application.IntegrationTests.AssemblyInfoInputs.cache
+C:\Users\Peiper\projetos\CleanArchitecture\tests\SquadPremium.Application.IntegrationTests\obj\Debug\net5.0\SquadPremium.Application.IntegrationTests.AssemblyInfo.cs
+C:\Users\Peiper\projetos\CleanArchitecture\tests\SquadPremium.Application.IntegrationTests\obj\Debug\net5.0\SquadPremium.Application.IntegrationTests.csproj.CoreCompileInputs.cache
