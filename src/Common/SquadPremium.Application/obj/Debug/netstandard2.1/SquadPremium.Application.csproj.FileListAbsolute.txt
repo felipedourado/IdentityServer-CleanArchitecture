@@ -7,3 +7,12 @@ C:\Users\Peiper\projetos\CleanArchitecture\src\Common\SquadPremium.Application\o
 C:\Users\Peiper\projetos\CleanArchitecture\src\Common\SquadPremium.Application\obj\Debug\netstandard2.1\SquadPremium.Application.csproj.CoreCompileInputs.cache
 C:\Users\Peiper\projetos\CleanArchitecture\src\Common\SquadPremium.Application\obj\Debug\netstandard2.1\SquadPremium.Application.dll
 C:\Users\Peiper\projetos\CleanArchitecture\src\Common\SquadPremium.Application\obj\Debug\netstandard2.1\SquadPremium.Application.pdb
+C:\Users\Peiper\projetos\SquadPremium\src\Common\SquadPremium.Application\bin\Debug\netstandard2.1\SquadPremium.Application.deps.json
+C:\Users\Peiper\projetos\SquadPremium\src\Common\SquadPremium.Application\bin\Debug\netstandard2.1\SquadPremium.Application.dll
+C:\Users\Peiper\projetos\SquadPremium\src\Common\SquadPremium.Application\bin\Debug\netstandard2.1\SquadPremium.Application.pdb
+C:\Users\Peiper\projetos\SquadPremium\src\Common\SquadPremium.Application\obj\Debug\netstandard2.1\SquadPremium.Application.csproj.AssemblyReference.cache
+C:\Users\Peiper\projetos\SquadPremium\src\Common\SquadPremium.Application\obj\Debug\netstandard2.1\SquadPremium.Application.AssemblyInfoInputs.cache
+C:\Users\Peiper\projetos\SquadPremium\src\Common\SquadPremium.Application\obj\Debug\netstandard2.1\SquadPremium.Application.AssemblyInfo.cs
+C:\Users\Peiper\projetos\SquadPremium\src\Common\SquadPremium.Application\obj\Debug\netstandard2.1\SquadPremium.Application.csproj.CoreCompileInputs.cache
+C:\Users\Peiper\projetos\SquadPremium\src\Common\SquadPremium.Application\obj\Debug\netstandard2.1\SquadPremium.Application.dll
+C:\Users\Peiper\projetos\SquadPremium\src\Common\SquadPremium.Application\obj\Debug\netstandard2.1\SquadPremium.Application.pdb

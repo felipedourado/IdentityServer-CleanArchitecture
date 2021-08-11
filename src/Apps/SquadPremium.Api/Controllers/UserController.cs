@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace SquadPremium.Api.Controllers
 {
-    //[Authorize]
+    [Authorize]
     public class UserController: BaseApiController
     {
         [HttpPost]

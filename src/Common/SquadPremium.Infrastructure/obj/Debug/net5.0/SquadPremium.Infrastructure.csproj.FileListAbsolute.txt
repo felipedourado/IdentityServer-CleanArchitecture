@@ -1,0 +1,15 @@
+C:\Users\Peiper\projetos\SquadPremium\src\Common\SquadPremium.Infrastructure\bin\Debug\net5.0\SquadPremium.Infrastructure.deps.json
+C:\Users\Peiper\projetos\SquadPremium\src\Common\SquadPremium.Infrastructure\bin\Debug\net5.0\SquadPremium.Infrastructure.dll
+C:\Users\Peiper\projetos\SquadPremium\src\Common\SquadPremium.Infrastructure\bin\Debug\net5.0\ref\SquadPremium.Infrastructure.dll
+C:\Users\Peiper\projetos\SquadPremium\src\Common\SquadPremium.Infrastructure\bin\Debug\net5.0\SquadPremium.Infrastructure.pdb
+C:\Users\Peiper\projetos\SquadPremium\src\Common\SquadPremium.Infrastructure\bin\Debug\net5.0\SquadPremium.Application.dll
+C:\Users\Peiper\projetos\SquadPremium\src\Common\SquadPremium.Infrastructure\bin\Debug\net5.0\SquadPremium.Application.pdb
+C:\Users\Peiper\projetos\SquadPremium\src\Common\SquadPremium.Infrastructure\obj\Debug\net5.0\SquadPremium.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Peiper\projetos\SquadPremium\src\Common\SquadPremium.Infrastructure\obj\Debug\net5.0\SquadPremium.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peiper\projetos\SquadPremium\src\Common\SquadPremium.Infrastructure\obj\Debug\net5.0\SquadPremium.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Peiper\projetos\SquadPremium\src\Common\SquadPremium.Infrastructure\obj\Debug\net5.0\SquadPremium.Infrastructure.AssemblyInfo.cs
+C:\Users\Peiper\projetos\SquadPremium\src\Common\SquadPremium.Infrastructure\obj\Debug\net5.0\SquadPremium.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Peiper\projetos\SquadPremium\src\Common\SquadPremium.Infrastructure\obj\Debug\net5.0\SquadPremium.Infrastructure.csproj.CopyComplete
+C:\Users\Peiper\projetos\SquadPremium\src\Common\SquadPremium.Infrastructure\obj\Debug\net5.0\SquadPremium.Infrastructure.dll
+C:\Users\Peiper\projetos\SquadPremium\src\Common\SquadPremium.Infrastructure\obj\Debug\net5.0\ref\SquadPremium.Infrastructure.dll
+C:\Users\Peiper\projetos\SquadPremium\src\Common\SquadPremium.Infrastructure\obj\Debug\net5.0\SquadPremium.Infrastructure.pdb
