@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pw3ew4XupIjZGHVJz/8qor6r/b+cP4pLuYAdGi0YrHxfV0znuIOaMM5zcdusV8yZjymFk9ecMQbzzIB1ag6HEw==",
+  "dgSpecHash": "yXIc9KN4A4c5L5q8lAY7g/bUUc6MfWbCno9VUX/1QqG5CVLBkLAw893kK6a5Lb7i/V1d0cpHdGluOcXNW8VgJg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Peiper\\projetos\\CleanArchitecture\\tests\\SquadPremium.Application.IntegrationTests\\SquadPremium.Application.IntegrationTests.csproj",
+  "projectFilePath": "C:\\Users\\Peiper\\projetos\\SquadPremium\\tests\\SquadPremium.Application.IntegrationTests\\SquadPremium.Application.IntegrationTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Peiper\\.nuget\\packages\\automapper\\10.0.0\\automapper.10.0.0.nupkg.sha512",
     "C:\\Users\\Peiper\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",

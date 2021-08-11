@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Peiper\\projetos\\CleanArchitecture\\src\\Common\\SquadPremium.Application\\SquadPremium.Application.csproj": {}
+    "C:\\Users\\Peiper\\projetos\\SquadPremium\\src\\Common\\SquadPremium.Application\\SquadPremium.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Peiper\\projetos\\CleanArchitecture\\src\\Common\\SquadPremium.Application\\SquadPremium.Application.csproj": {
+    "C:\\Users\\Peiper\\projetos\\SquadPremium\\src\\Common\\SquadPremium.Application\\SquadPremium.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Peiper\\projetos\\CleanArchitecture\\src\\Common\\SquadPremium.Application\\SquadPremium.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Peiper\\projetos\\SquadPremium\\src\\Common\\SquadPremium.Application\\SquadPremium.Application.csproj",
         "projectName": "SquadPremium.Application",
-        "projectPath": "C:\\Users\\Peiper\\projetos\\CleanArchitecture\\src\\Common\\SquadPremium.Application\\SquadPremium.Application.csproj",
+        "projectPath": "C:\\Users\\Peiper\\projetos\\SquadPremium\\src\\Common\\SquadPremium.Application\\SquadPremium.Application.csproj",
         "packagesPath": "C:\\Users\\Peiper\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Peiper\\projetos\\CleanArchitecture\\src\\Common\\SquadPremium.Application\\obj\\",
+        "outputPath": "C:\\Users\\Peiper\\projetos\\SquadPremium\\src\\Common\\SquadPremium.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Peiper\\AppData\\Roaming\\NuGet\\NuGet.Config"

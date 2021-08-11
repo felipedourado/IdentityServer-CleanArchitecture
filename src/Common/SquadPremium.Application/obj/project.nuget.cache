@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F/4XiL8segSRccv96sbLZqLkqYxT2AgvnInhB9KEcXtjT5xu2f+orj4LYg8UMXzcvDwmhS98Ynopa5R+l6FEtA==",
+  "dgSpecHash": "4MBkH3KfEHI0Lo+WSb0Un7j9XpBeEymlK7PTkyxukDYGlN7JReI2Okl5Q8Qbeb84BYY7rFJOsXpzw/2db6Evtg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Peiper\\projetos\\CleanArchitecture\\src\\Common\\SquadPremium.Application\\SquadPremium.Application.csproj",
+  "projectFilePath": "C:\\Users\\Peiper\\projetos\\SquadPremium\\src\\Common\\SquadPremium.Application\\SquadPremium.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Peiper\\.nuget\\packages\\fluentvalidation\\10.2.3\\fluentvalidation.10.2.3.nupkg.sha512",
     "C:\\Users\\Peiper\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.2.3\\fluentvalidation.dependencyinjectionextensions.10.2.3.nupkg.sha512",

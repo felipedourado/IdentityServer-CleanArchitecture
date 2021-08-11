@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Peiper\\projetos\\CleanArchitecture\\tests\\SquadPremium.Application.IntegrationTests\\SquadPremium.Application.IntegrationTests.csproj": {}
+    "C:\\Users\\Peiper\\projetos\\SquadPremium\\tests\\SquadPremium.Application.IntegrationTests\\SquadPremium.Application.IntegrationTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Peiper\\projetos\\CleanArchitecture\\src\\Apps\\SquadPremium.Api\\SquadPremium.Api.csproj": {
+    "C:\\Users\\Peiper\\projetos\\SquadPremium\\src\\Apps\\SquadPremium.Api\\SquadPremium.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Peiper\\projetos\\CleanArchitecture\\src\\Apps\\SquadPremium.Api\\SquadPremium.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Peiper\\projetos\\SquadPremium\\src\\Apps\\SquadPremium.Api\\SquadPremium.Api.csproj",
         "projectName": "SquadPremium.Api",
-        "projectPath": "C:\\Users\\Peiper\\projetos\\CleanArchitecture\\src\\Apps\\SquadPremium.Api\\SquadPremium.Api.csproj",
+        "projectPath": "C:\\Users\\Peiper\\projetos\\SquadPremium\\src\\Apps\\SquadPremium.Api\\SquadPremium.Api.csproj",
         "packagesPath": "C:\\Users\\Peiper\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Peiper\\projetos\\CleanArchitecture\\src\\Apps\\SquadPremium.Api\\obj\\",
+        "outputPath": "C:\\Users\\Peiper\\projetos\\SquadPremium\\src\\Apps\\SquadPremium.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Peiper\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,11 +26,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Peiper\\projetos\\CleanArchitecture\\src\\Common\\SquadPremium.Application\\SquadPremium.Application.csproj": {
-                "projectPath": "C:\\Users\\Peiper\\projetos\\CleanArchitecture\\src\\Common\\SquadPremium.Application\\SquadPremium.Application.csproj"
+              "C:\\Users\\Peiper\\projetos\\SquadPremium\\src\\Common\\SquadPremium.Application\\SquadPremium.Application.csproj": {
+                "projectPath": "C:\\Users\\Peiper\\projetos\\SquadPremium\\src\\Common\\SquadPremium.Application\\SquadPremium.Application.csproj"
               },
-              "C:\\Users\\Peiper\\projetos\\CleanArchitecture\\src\\Common\\SquadPremium.Infrastructure\\SquadPremium.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Peiper\\projetos\\CleanArchitecture\\src\\Common\\SquadPremium.Infrastructure\\SquadPremium.Infrastructure.csproj"
+              "C:\\Users\\Peiper\\projetos\\SquadPremium\\src\\Common\\SquadPremium.Infrastructure\\SquadPremium.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Peiper\\projetos\\SquadPremium\\src\\Common\\SquadPremium.Infrastructure\\SquadPremium.Infrastructure.csproj"
               }
             }
           }
@@ -120,14 +120,14 @@
         }
       }
     },
-    "C:\\Users\\Peiper\\projetos\\CleanArchitecture\\src\\Common\\SquadPremium.Application\\SquadPremium.Application.csproj": {
+    "C:\\Users\\Peiper\\projetos\\SquadPremium\\src\\Common\\SquadPremium.Application\\SquadPremium.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Peiper\\projetos\\CleanArchitecture\\src\\Common\\SquadPremium.Application\\SquadPremium.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Peiper\\projetos\\SquadPremium\\src\\Common\\SquadPremium.Application\\SquadPremium.Application.csproj",
         "projectName": "SquadPremium.Application",
-        "projectPath": "C:\\Users\\Peiper\\projetos\\CleanArchitecture\\src\\Common\\SquadPremium.Application\\SquadPremium.Application.csproj",
+        "projectPath": "C:\\Users\\Peiper\\projetos\\SquadPremium\\src\\Common\\SquadPremium.Application\\SquadPremium.Application.csproj",
         "packagesPath": "C:\\Users\\Peiper\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Peiper\\projetos\\CleanArchitecture\\src\\Common\\SquadPremium.Application\\obj\\",
+        "outputPath": "C:\\Users\\Peiper\\projetos\\SquadPremium\\src\\Common\\SquadPremium.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Peiper\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -210,14 +210,14 @@
         }
       }
     },
-    "C:\\Users\\Peiper\\projetos\\CleanArchitecture\\src\\Common\\SquadPremium.Infrastructure\\SquadPremium.Infrastructure.csproj": {
+    "C:\\Users\\Peiper\\projetos\\SquadPremium\\src\\Common\\SquadPremium.Infrastructure\\SquadPremium.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Peiper\\projetos\\CleanArchitecture\\src\\Common\\SquadPremium.Infrastructure\\SquadPremium.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Peiper\\projetos\\SquadPremium\\src\\Common\\SquadPremium.Infrastructure\\SquadPremium.Infrastructure.csproj",
         "projectName": "SquadPremium.Infrastructure",
-        "projectPath": "C:\\Users\\Peiper\\projetos\\CleanArchitecture\\src\\Common\\SquadPremium.Infrastructure\\SquadPremium.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Peiper\\projetos\\SquadPremium\\src\\Common\\SquadPremium.Infrastructure\\SquadPremium.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Peiper\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Peiper\\projetos\\CleanArchitecture\\src\\Common\\SquadPremium.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Peiper\\projetos\\SquadPremium\\src\\Common\\SquadPremium.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Peiper\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -232,8 +232,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Peiper\\projetos\\CleanArchitecture\\src\\Common\\SquadPremium.Application\\SquadPremium.Application.csproj": {
-                "projectPath": "C:\\Users\\Peiper\\projetos\\CleanArchitecture\\src\\Common\\SquadPremium.Application\\SquadPremium.Application.csproj"
+              "C:\\Users\\Peiper\\projetos\\SquadPremium\\src\\Common\\SquadPremium.Application\\SquadPremium.Application.csproj": {
+                "projectPath": "C:\\Users\\Peiper\\projetos\\SquadPremium\\src\\Common\\SquadPremium.Application\\SquadPremium.Application.csproj"
               }
             }
           }
@@ -287,14 +287,14 @@
         }
       }
     },
-    "C:\\Users\\Peiper\\projetos\\CleanArchitecture\\tests\\SquadPremium.Application.IntegrationTests\\SquadPremium.Application.IntegrationTests.csproj": {
+    "C:\\Users\\Peiper\\projetos\\SquadPremium\\tests\\SquadPremium.Application.IntegrationTests\\SquadPremium.Application.IntegrationTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Peiper\\projetos\\CleanArchitecture\\tests\\SquadPremium.Application.IntegrationTests\\SquadPremium.Application.IntegrationTests.csproj",
+        "projectUniqueName": "C:\\Users\\Peiper\\projetos\\SquadPremium\\tests\\SquadPremium.Application.IntegrationTests\\SquadPremium.Application.IntegrationTests.csproj",
         "projectName": "SquadPremium.Application.IntegrationTests",
-        "projectPath": "C:\\Users\\Peiper\\projetos\\CleanArchitecture\\tests\\SquadPremium.Application.IntegrationTests\\SquadPremium.Application.IntegrationTests.csproj",
+        "projectPath": "C:\\Users\\Peiper\\projetos\\SquadPremium\\tests\\SquadPremium.Application.IntegrationTests\\SquadPremium.Application.IntegrationTests.csproj",
         "packagesPath": "C:\\Users\\Peiper\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Peiper\\projetos\\CleanArchitecture\\tests\\SquadPremium.Application.IntegrationTests\\obj\\",
+        "outputPath": "C:\\Users\\Peiper\\projetos\\SquadPremium\\tests\\SquadPremium.Application.IntegrationTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Peiper\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -309,14 +309,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Peiper\\projetos\\CleanArchitecture\\src\\Apps\\SquadPremium.Api\\SquadPremium.Api.csproj": {
-                "projectPath": "C:\\Users\\Peiper\\projetos\\CleanArchitecture\\src\\Apps\\SquadPremium.Api\\SquadPremium.Api.csproj"
+              "C:\\Users\\Peiper\\projetos\\SquadPremium\\src\\Apps\\SquadPremium.Api\\SquadPremium.Api.csproj": {
+                "projectPath": "C:\\Users\\Peiper\\projetos\\SquadPremium\\src\\Apps\\SquadPremium.Api\\SquadPremium.Api.csproj"
               },
-              "C:\\Users\\Peiper\\projetos\\CleanArchitecture\\src\\Common\\SquadPremium.Application\\SquadPremium.Application.csproj": {
-                "projectPath": "C:\\Users\\Peiper\\projetos\\CleanArchitecture\\src\\Common\\SquadPremium.Application\\SquadPremium.Application.csproj"
+              "C:\\Users\\Peiper\\projetos\\SquadPremium\\src\\Common\\SquadPremium.Application\\SquadPremium.Application.csproj": {
+                "projectPath": "C:\\Users\\Peiper\\projetos\\SquadPremium\\src\\Common\\SquadPremium.Application\\SquadPremium.Application.csproj"
               },
-              "C:\\Users\\Peiper\\projetos\\CleanArchitecture\\src\\Common\\SquadPremium.Infrastructure\\SquadPremium.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Peiper\\projetos\\CleanArchitecture\\src\\Common\\SquadPremium.Infrastructure\\SquadPremium.Infrastructure.csproj"
+              "C:\\Users\\Peiper\\projetos\\SquadPremium\\src\\Common\\SquadPremium.Infrastructure\\SquadPremium.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Peiper\\projetos\\SquadPremium\\src\\Common\\SquadPremium.Infrastructure\\SquadPremium.Infrastructure.csproj"
               }
             }
           }
